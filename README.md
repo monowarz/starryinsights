@@ -1,13 +1,12 @@
 #  Orbita Studios
 
-## The website, "Orbita Studios" was created as a submission for "INIT 3.0"
+## The website, "Starry Insights" was created as a submission for "NDC Annual Science Festival"
 ### This website includes these pages:
 - Home
 - About
-- Work
 - 404 Error
 - Contact
 
-👉 Live website link - [Click here](https://orbitaos.netlify.app/)
+👉 Live website link - [Click here](https://starryinsights.netlify.app/)
 
 ![preview img](/demo.png)
